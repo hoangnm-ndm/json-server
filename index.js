@@ -1,4 +1,4 @@
-import jsonServer from "json-server";
+import jsonServer from "json-server-auth";
 import dotenv from "dotenv";
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
