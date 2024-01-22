@@ -1,11 +1,15 @@
 {
   "users": [
     {
-      "email": "olivier@mail.com",
-      "password": "bestPassw0rd",
-      "firstname": "Olivier",
-      "lastname": "Monge",
-      "age": 32
+      "email": "hoangn@gmail.com",
+      "password": "$2a$10$.nxxqPOrk4wOdA8fvwGSQOwO8OSB.TJOdPj/HhqBj0n.oFtIY7pKW",
+      "id": 1
+    },
+    {
+      "email": "hoangnm@gmail.com",
+      "password": "$2a$10$ikckyiqezrqkuEFUb.CBvOVN0gTnbuSm0VTfXyyQK4nn6Y0dHXD/y",
+      "username": "hoangnm.ndm",
+      "id": 2
     }
   ],
   "products": [
@@ -57,7 +61,9 @@
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": ["https://cdn.dummyjson.com/product-images/3/1.jpg"]
+      "images": [
+        "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      ]
     },
     {
       "id": 4,
